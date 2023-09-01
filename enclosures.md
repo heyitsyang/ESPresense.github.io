@@ -18,3 +18,6 @@ nav_order: 7
 
 ## ESP-32 38 Pin
 * [esp32-wroom Case with 230VAC-->5V DC converter](https://www.thingiverse.com/thing:6127566)
+
+## Wall Plug PCB & 3D printing files
+* [General purpose wall plug PCB with 3D enclosure files](https://www.tindie.com/products/shencentral/ac-wall-adapter-pcb-for-iot-us-2-pack/)
